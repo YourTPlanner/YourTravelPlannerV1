@@ -1,4 +1,4 @@
-# WanderGenie LLM
+# WanderGenie LLM V1 TESTING
 
 WanderGenie LLM is an AI-powered travel planner designed to create and customize travel itineraries. It offers a personalized experience for different user roles, including travellers, agents/vendors, and super admins.
 
